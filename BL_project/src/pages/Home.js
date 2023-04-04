@@ -5,7 +5,8 @@ import Header from "../component/Header"
 
 function Home (){
    return (
-      <div className="container-fluid p-0"><Header /></div>
+      <div className="container-fluid bg-dark"><Header />
+      </div>
    )
 }
 export default Home

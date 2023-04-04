@@ -1,0 +1,11 @@
+/*  HEADER STYLE */
+#header {
+   background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(211, 192, 192));
+}
+
+#left img {
+   object-fit: cover;
+}
+
+
+/* HEADER STYLE */
